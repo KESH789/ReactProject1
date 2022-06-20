@@ -5,7 +5,7 @@ Steps to open and run the project:
 
 Download code from GitHub.
 Unzip file and save folder locally.
-Open solution in Visual Studio
+Open solution in Visual Studio.
 Build solution.
 Main application code is in the Home.js Javascript file.
 
